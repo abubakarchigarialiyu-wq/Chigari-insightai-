@@ -1,0 +1,4 @@
+gradio>=5.0,<7.0
+pandas>=2.0
+plotly>=5.0
+openpyxl>=3.1
